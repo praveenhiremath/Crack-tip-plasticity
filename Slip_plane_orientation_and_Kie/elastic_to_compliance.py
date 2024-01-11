@@ -6,6 +6,14 @@ from array import *
 import os
 import math
 
+'''
+The code is for PhD research purposes
+
+Author: Praveenkumar Hiremath
+Email: praveenkumar.hiremath@mek.lth.se (Email at the University)
+       praveenkumar.hiremath2911@gmail.com (Private email)
+'''
+
 
 #W-Re structure 9
 C=np.array([[535.7*1e9,246.8*1e9,206.2*1e9,0.0,0.0,0.0],[246.8*1e9,535.7*1e9,206.2*1e9,0.0,0.0,0.0],[206.2*1e9,206.2*1e9,565.4*1e9,0.0,0.0,0.0],[0.0,0.0,0.0,104.9*1e9,0.0,0.0],[0.0,0.0,0.0,0.0,104.9*1e9,0.0],[0.0,0.0,0.0,0.0,0.0,121.7*1e9]])
