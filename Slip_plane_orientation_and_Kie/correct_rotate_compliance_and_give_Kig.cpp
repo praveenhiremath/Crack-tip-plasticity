@@ -2,6 +2,13 @@
 #include <cmath>
 #include<stdlib.h>
 
+// The code is for PhD research purposes
+
+// Author: Praveenkumar Hiremath
+// Email: praveenkumar.hiremath@mek.lth.se (Email at the University)
+//       praveenkumar.hiremath2911@gmail.com (Private email)
+
+
 //Function to calculate compliance constants in rotated system with plane strain condition
 //void DisplaceAtoms::rotation(double o,double p,double q,double u,double v,double w,double s11,double s12,double s44,double s11_New,double s12_New,double s22_New,double s16_New,double s26_New,double s66_New,double A[])
 //{
