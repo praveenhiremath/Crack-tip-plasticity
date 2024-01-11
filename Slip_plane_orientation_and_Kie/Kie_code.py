@@ -7,6 +7,14 @@ import os
 import math
 
 
+'''
+The code is for PhD research purposes
+
+Author: Praveenkumar Hiremath
+Email: praveenkumar.hiremath@mek.lth.se (Email at the University)
+       praveenkumar.hiremath2911@gmail.com (Private email)
+'''
+
 #crack_prop=np.array([0,-1,0]) #x-axis
 perp_crack_plane=np.array([1,1,2]) #y-axis  Enter the vectors such that [1*a,1*a,2*c] i.e indices are multiplied by a,a and c.
 u=perp_crack_plane[0]
